@@ -10,7 +10,10 @@
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **** |  |  |
+| **User inputs movie-name, movie-time, age** | Star Wars, 3, 21  | none |
+| **Ticket constructor gathers input for 3 variables** | Star Wars, 3, 21  | {name: Star Wars, time: 3, age: 21} |
+|**Base ticket price is adjusted for discounts** |Star Wars, 3, 21  | $16.00 |
+
 
 ## Setup/Installation Requirements
 
