@@ -1,11 +1,11 @@
 # _Movie Tickets_
 
-
-#### _, 6.3.20_
+#### _Working with Objects, 6.16.20_
 
 #### By _**Megan Hepner, Peter Grimm, Noel Kirkland**_
 
 ## Description
+This webpage takes in user input about which movie they would like to see, which time, and if they are a child, adult, or senior. It then returns the price of the movie based on those choices.
 
 ### Specs
 | Spec | Input | Output |
